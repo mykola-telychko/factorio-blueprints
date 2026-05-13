@@ -1,1 +1,3 @@
 site / screen / blueprint 
+
+make structure in readme.md 
